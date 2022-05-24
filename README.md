@@ -4,71 +4,55 @@
 
   1.1. Objetivo General 
   
+- Investigar sobre "Cantidades y Unidades" y "Voltaje corriente y resistencia", mediante el libro establecido en hora de clase "Principios de circuitos  electricos de Floyd" para lograr una mejor comprension de la materia durante el periodo de mayo a septiembre del 2022. 
+  
 Conocer sobre la ley de ohm, sobre la energía y potencia mediante la utilización del libro de Floyd "Principios de Circuitos Eléctricos"  
 
 Definir y  aplicar las formulas  y conceptos  fundamentales de la ley de Ohm , energí y potencia para poder resolver los problemas propuestos en cada capitulo , mediante el analisis y aplicación del conocimiento  sobre los temas que se ha profundizado. 
 
   1.2. Objetivos Específicos 
+  
+- Realizar mapas conceptuales mediante la informacion de los capitulos establecidos por tarea para lograr resumir de mejor manera y tener los conceptos claros.  
 
-- Realizar el respectivo análisis de las definiciones tanto de la ley de Ohm como de energía y potencia .  
+- Desarrollar los ejercicios establecidos por capitulo (pares), con esto lograr aplicar lo comprendido y resumido en los mapas conceptuales anteriores para solventar dudas y tener una informacion mas amplia.  
 
-- Identificar las formulas que se pueden utilizar en el trabajo.  
+- Desarrollar un video que contenga cuatro ejercicios y la explicacion del marco teorico con esto demostrar el trabajo aplicado en el informe para el conocimiento del docente.
 
-- Analizar correctamente cada problema para obtener la solución correcta.
+Realizar el respectivo análisis de las definiciones tanto de la ley de Ohm como de energía y potencia .  
 
-- Resumir los capitulos tres y cuatro del libro de Floyd "Principios de Circuitos Eléctricos", para que de esta manera se pueda comprender de una mejor manera los temas descritos.
+Identificar las formulas que se pueden utilizar en el trabajo.  
 
-- Aplicar los conocimientos adquiridos de los temas de la ley de ohm, energia y potencia para la resolcuión de los ejercicos propuestos por el libro de Floyd.
+Analizar correctamente cada problema para obtener la solución correcta.
+
+Resumir los capitulos tres y cuatro del libro de Floyd "Principios de Circuitos Eléctricos", para que de esta manera se pueda comprender de una mejor manera los temas descritos.
+
+Aplicar los conocimientos adquiridos de los temas de la ley de ohm, energia y potencia para la resolcuión de los ejercicos propuestos por el libro de Floyd.
 
 2. Marco teórico
 
-  2.1. Relación entre Voltaje, Corriente y Resistencia
+2.1. Capítulo 3
 
-La relación existente se puede describir con la ley de OHM, en la cual se da a conocer que la corriente es directamente proporcional al voltaje, es decir que si una aumenta la otra también lo hará y viceversa. Al contrario, la corriente es inversamente proporcional a la resistencia, es decir, si una aumenta la otra disminuye.
-Cuando el voltaje es constante menos resistencia produce más corriente y viceversa. Es así como se deduce la fórmula de la ley de OMH: I=V/R ; donde I es la corriente en amperes, V el voltaje en volts y R la resistencia en ohms.
-Existe una relación lineal entre corriente y voltaje, como también una relación inversa entre corriente y resistencia.
+3–1 La relación de corriente, voltaje y resistencia
 
-  2.2. Cálculo de la corriente
+3–2 Cálculo de la corriente
 
-Para poder calcular la corriente se utiliza la ley de OMH donde I=V/R, hay que tomar en cuenta de que las medidas, por lo general, se deben tener en la misma unidad. Como por ejemplo si se requiere la corriente en amperes los voltios deben estar en volts y las resistencias en ohms; otro ejemplo comúnmente usado es para obtener miliamperes, donde los voltios deben estar en volts y las resistencias en kilohms.
+3–3 Cálculo del voltaje
 
-  2.3. Cálculo de voltaje
+3–4 Cálculo de la resistencia
 
-Para poder calcular la corriente se utiliza la ley de OMH donde V=IxR, si se requiere el voltaje en voltios, la corriente debe estar en amperes y las resistencias en ohms.
+3–5 Introducción a la localización de fallas una aplicación de circuito
 
-  2.4. Cálculo de resistencia
+2.2. Capitulo 4
 
-Para poder calcular la corriente se utiliza la ley de OMH donde R=V/I, si se requiere la resistencia en ohms, el voltaje debe estar en volts y la corriente debe estar en amperes.
+4–1 Energía y potencia
 
-  2.5. Introducción a la localización de fallas
+4–2 Potencia en un circuito eléctrico
 
-Se requiere de conocimiento acerca del circuito desarrollado y de razonamiento lógico para poder reconocer las fallas existentes en dicho circuito. El método básico para reconocer fallas es el APM (análisis, planificación y medición)
+4–3 Potencia nominal en resistores
 
-- Análisis: Se analizan los indicios de las fallas, respondiendo preguntas aceca de las posibles causas de las fallas.
-- Planificación: Es planificar un plan de ataque en donde verifique el circuito a parte del esquema o su funcionamiento.
-- Medición: Aquí se verifican las fallas a través de mediciones realizadas con instrumentos de medida, se lo intent realizar lo más cuidadosamente posible. Para medir corriente el amperímetro se conecta en serie, para medir voltaje el voltímetro se conecta en paralelo y para medir resistencia se lo debe hacer sin voltaje. 
+4–4 Conversión de energía y caída de voltaje en una resistencia
 
-  2.6. Energía y potencia 
- 
- Se denomina energía a la capacidad de realizar trabajo y potencia es la cantidad de energía que se utiliza en un determinado tiempo. La fo´rmula de la potencia quedaría definida de la siguiente manera P= W/t ; de donde P es potencia en watts, W es la energía en joules y t es el tiempo en segundos.
- 
-  2.7. Potencia en un circuito eléctrico
-
-El calor en un circuito es provocado porque los electrones colisionan al momento en que la corriente pasa pr una resistencia, es por esto que la cantidad de potencia depende de la cantidad de resistencia y de la corriente. Quedand su fórmula de la siguiente manera: P= I^2 * R ; de donde P es la potencia en watts, I es la corriente en amperes y R es la resistencia en ohms. Otra fórmula equivalente en función del voltaje y la resistencia es: P= V^2 / R ; de donde V es el voltaje.
-
-  2.8. Potencia nominal en resistores
-  
-Un resistor es aquel que disipa el calor cuando pasa una corriente por él. La potencia nominal es la máxima cantidad de potencia que el resistor puede disipar, esto viene determinado por la composición física, el tamaño y la forma del resistor en cuestión. Mientras más grande sea el área de un resistor, mayor calor podrá disipar.
-
-  2.9. Conversión de energía y caída de voltaje en una resistencia
-  
-El voltaje es igual a: V= W/Q ; de donde W es energía y Q es carga.Cierta cantidad de energía es impartida a todos los electrones que salen de la terminal positiva. 
-
-  2.10. Fuentes de potencia:
-
-Es aquel que suministra potencia a una carga. La fuente de potencia, mediante sus terminales, produce voltaje y suministra corriente a través de la carga. Entre más corriente más potencia hay.
-
--Eficiencia de una fuente de potencia: Es la relación de la potencia de salida suministrada a una carga respecto de potencia de entrada al circuito. En forma de fórmula quedaría de la siguiente manera: Eficiencia= PotenciaSalida / PotenciaEntrada. Y esta es presentada en forma en porcentaje. Una fórmula que nos permite calcular la potencia de salida es: PSalida = Pentrada - PPerdida.
+4–5 Fuentes de potencia una aplicación de circuito
 
 3. Explicación y  Resolución de  ejercicios o problemas
 
