@@ -92,4 +92,8 @@ Para la localización de fallas en un circuito debemos tomar en cuenta tan solo 
 
 6. Bibliografía
 
-Floyd, T.(2007). /Principio de Circuitos Eléctricos/. Pearson, Prentice Hall
+Floyd, T. (2007). Principios de circuitos eléctricos. PEARSON Educación. https://drive.google.com/file/d/15UCq2JrPEKKB8SwajlmtTcE07nMiowaK/view
+
+7. Rubrica
+
+![image](https://user-images.githubusercontent.com/94011974/168502638-68a88253-237f-494b-b87f-72ae3914cb18.png)
