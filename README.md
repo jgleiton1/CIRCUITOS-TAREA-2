@@ -20,13 +20,23 @@
 
 3–1 La relación de corriente, voltaje y resistencia
 
+![Untitled Diagram (14)](https://user-images.githubusercontent.com/94011974/170060709-59379844-a107-4d26-86ee-35fe92c4fbd9.jpg)
+
 3–2 Cálculo de la corriente
+
+![Untitled Diagram (15)](https://user-images.githubusercontent.com/94011974/170060735-618e451e-d25d-4c3b-a500-7a16ff3dc09e.jpg)
 
 3–3 Cálculo del voltaje
 
+![Untitled Diagram (16)](https://user-images.githubusercontent.com/94011974/170060769-211cc9bb-0b8a-48cc-a2fc-e33222918aa6.jpg)
+
 3–4 Cálculo de la resistencia
 
+![Untitled Diagram (17)](https://user-images.githubusercontent.com/94011974/170060806-19c5cc9a-f699-4747-ba83-7789f9b833ff.jpg)
+
 3–5 Introducción a la localización de fallas una aplicación de circuito
+
+![Untitled Diagram (18)](https://user-images.githubusercontent.com/94011974/170060847-879b74dd-0379-45bc-a9e2-23a30ceaad35.jpg)
 
 2.2. Capitulo 4
 
