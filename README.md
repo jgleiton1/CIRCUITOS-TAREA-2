@@ -42,13 +42,23 @@
 
 4–1 Energía y potencia
 
+![Untitled Diagram (19)](https://user-images.githubusercontent.com/94011974/170069769-2acbd283-fd09-46db-a568-b63930bc96ab.jpg)
+
 4–2 Potencia en un circuito eléctrico
+
+![Untitled Diagram (20)](https://user-images.githubusercontent.com/94011974/170069819-f8c22f06-959b-4882-aa82-25d5f94cdc7a.jpg)
 
 4–3 Potencia nominal en resistores
 
+![Untitled Diagram (21)](https://user-images.githubusercontent.com/94011974/170069874-14664ab2-1e04-4636-8f28-19e4d53ce903.jpg)
+
 4–4 Conversión de energía y caída de voltaje en una resistencia
 
+![Untitled Diagram (22)](https://user-images.githubusercontent.com/94011974/170069924-79a9c2f3-e13b-4348-9e39-8e04c1d852e9.jpg)
+
 4–5 Fuentes de potencia una aplicación de circuito
+
+![Untitled Diagram (23)](https://user-images.githubusercontent.com/94011974/170069977-a1e786f3-49af-41cc-9173-0f9f9b89151c.jpg)
 
 3. Explicación y  Resolución de  ejercicios o problemas
 
