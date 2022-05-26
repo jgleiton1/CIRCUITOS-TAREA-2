@@ -372,6 +372,8 @@ Psalida = 5.88W
 
 4. Video
 
+https://www.youtube.com/watch?v=vVgruIqhDNc
+
 5. Conclusiones 
 
 -La ley de  Ohm describe de manera matemática la relación entre voltaje, corriente y resistencia  de un circuito, puesto que explica como el voltaje y la corriente son directamente proporcionales es decir si el voltaje disminuye sucede lo mismo con la corriente, pero se comporta de manera diferente con la resistencia, dado que en este caso la corriente es inversamente proporcional es decir si la resistencia aumenta la corriente disminuye, para lo cual se implementa una formula I= V/R, que permite la solcuín de algunos de los ejercicos resueltos anteriormente.
