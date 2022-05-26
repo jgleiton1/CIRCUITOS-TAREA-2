@@ -374,19 +374,19 @@ Psalida = 5.88W
 
 5. Conclusiones 
 
-La ley de  Ohm describe de manera matemática la relación entre voltaje, corriente y resistencia  de un circuito, puesto que explica como el voltaje y la corriente son directamente proporcionales es decir si el voltaje disminuye sucede lo mismo con la corriente, pero se comporta de manera diferente con la resistencia, dado que en este caso la corriente es inversamente proporcional es decir si la resistencia aumenta la corriente disminuye, para lo cual se implementa una formula I= V/R, que permite la solcuín de algunos de los ejercicos resueltos anteriormente.
+-La ley de  Ohm describe de manera matemática la relación entre voltaje, corriente y resistencia  de un circuito, puesto que explica como el voltaje y la corriente son directamente proporcionales es decir si el voltaje disminuye sucede lo mismo con la corriente, pero se comporta de manera diferente con la resistencia, dado que en este caso la corriente es inversamente proporcional es decir si la resistencia aumenta la corriente disminuye, para lo cual se implementa una formula I= V/R, que permite la solcuín de algunos de los ejercicos resueltos anteriormente.
 
-La enegía  no es igual a la corriente, puesto que esta se encarga de  realizar trabajo y la potencia es la razón de cambio a la cual  se utiliza la energía por ello se  conoce la siguiente formula P=W/t , del mismo modo se presentan una variedad de formulas que permiten resolver los ejercios planteados, sin embargo se necesita del conocimiento de los conceptos generales para saber que formula se debe aplicar . 
+-La enegía  no es igual a la corriente, puesto que esta se encarga de  realizar trabajo y la potencia es la razón de cambio a la cual  se utiliza la energía por ello se  conoce la siguiente formula P=W/t , del mismo modo se presentan una variedad de formulas que permiten resolver los ejercios planteados, sin embargo se necesita del conocimiento de los conceptos generales para saber que formula se debe aplicar . 
 
-Como conclusión se tiene que a medida que los electrones fluyen por cada resistencia en un circuito estos ceden algo de su energía en forma de calor, por lo que quiere decir que los electrones tienen más energía cuando entran a una resistencia que cuando salen de esta.
+-Como conclusión se tiene que a medida que los electrones fluyen por cada resistencia en un circuito estos ceden algo de su energía en forma de calor, por lo que quiere decir que los electrones tienen más energía cuando entran a una resistencia que cuando salen de esta.
 
-También se tiene que para poder hallar la cantidad máxima de potencia que un resistor puede disipar sin que sufra daños por calentamiento excesivo, existe la potencia nominal, la cual no está relacionada con el valor de la resistencia, sino que está relacionada por tres cosas: la composición física, el tamaño y el área de la resistencia.
+-También se tiene que para poder hallar la cantidad máxima de potencia que un resistor puede disipar sin que sufra daños por calentamiento excesivo, existe la potencia nominal, la cual no está relacionada con el valor de la resistencia, sino que está relacionada por tres cosas: la composición física, el tamaño y el área de la resistencia.
 
-Al querer hallar un valor de corriente o voltaje y si la resistencia permanece constante se puede utilizar una regla de tres, en cambio al querer realiza lo mismo con la resistencia donde el voltaje es constante no sirve debió a que la resistencia y la corriente son inversamente proporcionales.
+-Al querer hallar un valor de corriente o voltaje y si la resistencia permanece constante se puede utilizar una regla de tres, en cambio al querer realiza lo mismo con la resistencia donde el voltaje es constante no sirve debió a que la resistencia y la corriente son inversamente proporcionales.
 
-La ley de ohm simboliza la relación que tiene con el voltaje y la resistencia mediante su fórmula.
+-La ley de ohm simboliza la relación que tiene con el voltaje y la resistencia mediante su fórmula.
 
-Para la localización de fallas en un circuito debemos tomar en cuenta tan solo 3 pasos iniciando con un análisis para ir localizando las fallas, después vamos a planificar de que manera vamos a solucionarlo de esta manera para ahorrar tiempo y por ultimo realizaremos mediciones para reducir las posibles fallas.
+-Para la localización de fallas en un circuito debemos tomar en cuenta tan solo 3 pasos iniciando con un análisis para ir localizando las fallas, después vamos a planificar de que manera vamos a solucionarlo de esta manera para ahorrar tiempo y por ultimo realizaremos mediciones para reducir las posibles fallas.
 
 6. Bibliografía
 
